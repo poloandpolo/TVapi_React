@@ -1,0 +1,10 @@
+.bar-container{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 55px;
+    display: flex;
+}
+
+
+
